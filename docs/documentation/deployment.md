@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Deployment
+layout: post
+title: Deployment | Docs
 nav_order: 1
 description: ""
 permalink: /docs/deployment/
